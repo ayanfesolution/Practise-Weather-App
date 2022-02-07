@@ -11,6 +11,7 @@
 		047B26C327AF0DF5007A82CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047B26C227AF0DF5007A82CF /* ContentView.swift */; };
 		047B26C527AF0DF6007A82CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047B26C427AF0DF6007A82CF /* Assets.xcassets */; };
 		047B26C827AF0DF6007A82CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047B26C727AF0DF6007A82CF /* Preview Assets.xcassets */; };
+		047B26CF27B16DAF007A82CF /* weatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047B26CE27B16DAF007A82CF /* weatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		047B26C227AF0DF5007A82CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		047B26C427AF0DF6007A82CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		047B26C727AF0DF6007A82CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		047B26CE27B16DAF007A82CF /* weatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				047B26C227AF0DF5007A82CF /* ContentView.swift */,
 				047B26C427AF0DF6007A82CF /* Assets.xcassets */,
 				047B26C627AF0DF6007A82CF /* Preview Content */,
+				047B26CE27B16DAF007A82CF /* weatherButton.swift */,
 			);
 			path = "Weather App";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				047B26CF27B16DAF007A82CF /* weatherButton.swift in Sources */,
 				047B26C327AF0DF5007A82CF /* ContentView.swift in Sources */,
 				047B26C127AF0DF5007A82CF /* Weather_AppApp.swift in Sources */,
 			);
